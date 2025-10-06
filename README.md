@@ -1,5 +1,6 @@
 # Simulation-of-Optical-Communication-System-EXP_3-
 Dispersion Compensation
+
 **AIM:**
 
 Download and install OptiPerformer software on your computer and run a sample file. 
@@ -30,8 +31,10 @@ window displays the “eye diagram” and several quantities including the “Ma
  TABULATION:
 
  <img width="430" height="720" alt="image" src="https://github.com/user-attachments/assets/16ca2995-fd8e-419a-9986-6b8046528c5c" />
+ 
 
-** GRAPH:**
+**GRAPH:**
+
 <img width="543" height="831" alt="image" src="https://github.com/user-attachments/assets/51ce0773-d8c5-45c9-8365-dfcd7957e1b6" />
 
 **RESULT:**
